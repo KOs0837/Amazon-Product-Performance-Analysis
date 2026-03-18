@@ -71,3 +71,28 @@ The EDA focused on:
 
 ## Limitations
 This dataset does not contain actual sales volume, revenue, or time-based transaction data. As a result, product performance cannot be measured through direct business KPIs such as sales growth or profitability. Instead, proxy indicators such as ratings, review counts, and discount patterns were used.
+
+**Project Preview**
+
+
+ *Volume of products by category:*
+
+
+ 
+ <img width="571" height="609" alt="image" src="https://github.com/user-attachments/assets/0b80899e-e6e7-4949-b6b8-a5fea6e76fd4" />
+
+ 
+  *Distribution of ratings accross all products:*
+
+
+  
+  <img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/7f74e5b9-fcb6-49fd-9f04-49ab072c38ea" />
+
+  
+  *AVG rating by category:*
+
+
+  
+  <img width="713" height="413" alt="image" src="https://github.com/user-attachments/assets/5072fb7c-c4c7-4070-9c75-5168f7812af0" />
+
+
